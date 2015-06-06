@@ -121,6 +121,18 @@
       "src": "fontawesome"
     },
     {
+      "uid": "c6be5a58ee4e63a5ec399c2b0d15cf2c",
+      "css": "reply",
+      "code": 59433,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "09feb4465d9bd1364f4e301c9ddbaa92",
+      "css": "retweet",
+      "code": 59432,
+      "src": "fontawesome"
+    },
+    {
       "uid": "0133387f2069a1b3168942b84d81dd3a",
       "css": "gamepad",
       "code": 59418,
