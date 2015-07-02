@@ -193,6 +193,12 @@
       "src": "fontawesome"
     },
     {
+      "uid": "ab656e280958018a7859eba9a1eabbc7",
+      "css": "trophy",
+      "code": 59435,
+      "src": "fontawesome"
+    },
+    {
       "uid": "130380e481a7defc690dfb24123a1f0c",
       "css": "circle",
       "code": 59395,
@@ -257,6 +263,12 @@
       "css": "twitter",
       "code": 59434,
       "src": "fontawesome"
+    },
+    {
+      "uid": "lnyme20kl7kh26it9yrqk7at10k6i0sf",
+      "css": "award",
+      "code": 59436,
+      "src": "modernpics"
     },
     {
       "uid": "i6ej1r6t84xouh0dct7g9zyx3ya9s9eg",
