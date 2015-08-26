@@ -10,6 +10,17 @@
   /* font-size: 120%; */
 }
  
+.fa-0 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x30;&nbsp;'); }
+.fa-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x31;&nbsp;'); }
+.fa-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x32;&nbsp;'); }
+.fa-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x33;&nbsp;'); }
+.fa-4 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x34;&nbsp;'); }
+.fa-5 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x35;&nbsp;'); }
+.fa-6 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x36;&nbsp;'); }
+.fa-7 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x37;&nbsp;'); }
+.fa-8 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x38;&nbsp;'); }
+.fa-9 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x39;&nbsp;'); }
+.fa-colon { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3a;&nbsp;'); }
 .fa-unsorted { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x21d5;&nbsp;'); }
 .fa-users { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x22b2;&nbsp;'); }
 .fa-sort-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2303;&nbsp;'); }
