@@ -1,12 +1,12 @@
 @charset "UTF-8";
 
  @font-face {
-  font-family: 'font-awesome-trimmed';
-  src: url('../font/font-awesome-trimmed.eot?7864406');
-  src: url('../font/font-awesome-trimmed.eot?7864406#iefix') format('embedded-opentype'),
-       url('../font/font-awesome-trimmed.woff?7864406') format('woff'),
-       url('../font/font-awesome-trimmed.ttf?7864406') format('truetype'),
-       url('../font/font-awesome-trimmed.svg?7864406#font-awesome-trimmed') format('svg');
+  font-family: 'steamlugfont';
+  src: url('../font/steamlugfont.eot?7864406');
+  src: url('../font/steamlugfont.eot?7864406#iefix') format('embedded-opentype'),
+       url('../font/steamlugfont.woff?7864406') format('woff'),
+       url('../font/steamlugfont.ttf?7864406') format('truetype'),
+       url('../font/steamlugfont.svg?7864406#steamlugfont') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,14 +15,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'font-awesome-trimmed';
-    src: url('../font/font-awesome-trimmed.svg?7864406#font-awesome-trimmed') format('svg');
+    font-family: 'steamlugfont';
+    src: url('../font/steamlugfont.svg?7864406#steamlugfont') format('svg');
   }
 }
 */
  
  [class^="fa-"]:before, [class*=" fa-"]:before {
-  font-family: "font-awesome-trimmed";
+  font-family: "steamlugfont";
   font-style: normal;
   font-weight: normal;
   speak: none;

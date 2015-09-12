@@ -57,8 +57,6 @@ Because we like to fit all your needs :)
   that data url moved to separate @font-face to avoid problems with <IE9, when
   string is too long.
 
-- animate.css - use it to get ideas about spinner rotation animation.
-
 
 Attention for server setup
 --------------------------
